@@ -7,7 +7,7 @@ print(
   "Press 1 for Addition + \nPress 2 for Substraction - \nPress 3 for Multiplication * \nPress 4 for Division \nPress 5 for Modules %"
 )
 
-choice = int(input("Press 1-4 given above ="))
+choice = int(input("Press 1-5 given above ="))
 
 if choice == 1:
   print(First + Second)
